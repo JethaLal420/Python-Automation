@@ -1,6 +1,6 @@
 ## Python-Automation
 
- Scripts used to automate repetitive tasks in everyday life. :simple_smile:
+ Scripts used to automate repetitive tasks in everyday life. :smiley:
 
 
 #### 1. [file_name_extracter_and_renamer.py](../Python-Automation/file_name_extracter_and_renamer.py):
