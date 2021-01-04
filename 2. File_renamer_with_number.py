@@ -1,7 +1,7 @@
 
 '''
 This Python script copies number appended with string to ClipBoard to be pasted for 
-renaming file or other use.
+renaming of file or other use.
 Script waits for 'Enter' (key-press). And after that number is incremented and loop is repeated.
 '''
 
